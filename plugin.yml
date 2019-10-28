@@ -1,0 +1,13 @@
+name: WorldSystemZ
+main: me.zwoosksT.Main
+version: 1.0
+author: zwoosks
+commands:
+   author:
+      description: Author of the plugin
+      usage: /<command>
+      aliases: [founder,owner]
+   worldsystem:
+      description: Sistema de mundos.
+      usage: /<command>
+      aliases: [ws]
